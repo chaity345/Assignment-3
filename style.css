@@ -1,0 +1,30 @@
+.div{
+    border: 3px solid orange;
+    
+    background-color: aquamarine;
+
+    padding: 50px 50px;
+
+    text-align: center;
+
+    width: 30%;
+
+    float: left;
+
+    padding: 50px 50px;
+
+    margin: 3% 3%;
+    
+    
+}
+
+.images{
+    width: 50%;
+    
+}
+.block{
+    text-align: center;
+}
+
+    
+    
